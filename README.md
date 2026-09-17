@@ -14,8 +14,8 @@ l'utiliser pour de vrai.
 
 | Priorité | Quoi | Où |
 |---|---|---|
-| 🔴 **Bloquant** | Les 3 témoignages sont inventés. Remplacez-les par de vrais avis (avec l'accord des personnes) **ou supprimez la section**. Publier de faux avis clients est une pratique commerciale trompeuse. | `index.html`, section `#temoignages` |
-| 🔴 **Bloquant** | Chiffres de la page d'accueil : « 240+ élèves », « 4,9/5 ». Mettez vos vrais chiffres ou retirez le bloc. | `index.html`, `.hero__proof` |
+| 🟡 Plus tard | La section témoignages est **masquée** (en commentaire HTML) car elle ne contient que des exemples. Pour l'afficher, mettez-y de vrais avis d'élèves, avec leur accord. Publier de faux avis clients est une pratique commerciale trompeuse. | `index.html`, section `#temoignages` |
+| 🟡 Plus tard | Les chiffres du hero (12 sem., 8 max, 48 h, 0 €) décrivent l'offre. Ajustez-les si vos formules changent. | `index.html`, `.hero__proof` |
 | 🔴 **Bloquant** | Mentions légales : identité de l'éditeur, SIREN, adresse. Obligatoire en France (art. 6-III LCEN). | `mentions-legales.html` |
 | 🟠 Important | « Sofia Renard » est un nom d'exemple. Mettez le vôtre. | `index.html`, `a-propos.html` |
 | 🟠 Important | Le formulaire de contact n'est pas encore branché (voir ci-dessous). | `contact.html` |
